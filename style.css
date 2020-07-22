@@ -24,3 +24,56 @@ button{
 .red{
     color: red;
 }
+.categories img{
+    width: 30%;
+}
+.container{
+    margin-bottom: 40px;
+}
+.margin{
+    padding: 0px 100px;
+}
+.col-md-3{
+    text-align: center;
+    padding-top: 50px;
+    margin: 10px;
+    background-color: #F0FFF0;
+    
+}
+.col-md-3 img{
+    padding-bottom: 20px;
+}
+.c-head{
+    color: navy;
+    font-weight: 700;
+    margin-bottom: 70px;
+    padding-top: 10px;
+}
+.card-deck h5{
+    color: navy;
+}
+.card-deck{
+    width: 90%;
+}
+.card img{
+    width: 100%;
+    padding: 20px;
+}
+.card{
+    border: none;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+.tes{
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+.pic img{
+    width: 70%;
+}
+.cnt{
+    width: 50%;
+    align-content: center;
+}
